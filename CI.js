@@ -1,4 +1,4 @@
-
+// Compound Interest Calculation
 P = 1000;
 r = 5;
 t = 3;
