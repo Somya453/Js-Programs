@@ -14,5 +14,5 @@ function isPrime(n) {
 // Driver Code
 
 isPrime(11)
-  ? console.log("true")
-  : console.log("false");
+  console.log("true")
+  console.log("false");
