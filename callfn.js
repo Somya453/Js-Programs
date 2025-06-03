@@ -12,3 +12,5 @@ const greet=(name, callback)=>{
 greet("John", () => {
     console.log("This is a callback function.");
 });
+
+
