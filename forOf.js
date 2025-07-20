@@ -10,3 +10,13 @@ for (let borough of boroughs) {
   console.log(borough);
 }
 
+const person = {
+  name: "Austin",
+  age: 29,
+  occupation: "musician"
+}
+
+for (let info in person) {
+  console.log(person[info]);
+}
+
