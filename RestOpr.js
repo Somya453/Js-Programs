@@ -32,3 +32,9 @@ console.log(destinationOne);
 
 const destinationTwo = planVacation("London", "Berlin");
 console.log(destinationTwo);
+
+
+
+
+
+
