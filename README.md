@@ -9,9 +9,12 @@ All Js Programs for Practise only
 #TRY
 #CATCH
 
+<--Types of functions-->
 <--We also used here callback and Callback hell-->
 #CallBack
 #CallBack_Hell
 
 <--Set Time Out-->
 #SetTimeOut
+#Asynchronous
+#Synchronous
