@@ -19,4 +19,4 @@ All Js Programs for Practise only
 #Asynchronous
 #Synchronous
 
-#map #filter #Eachall
+#map #filter 
