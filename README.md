@@ -18,3 +18,5 @@ All Js Programs for Practise only
 #SetTimeOut
 #Asynchronous
 #Synchronous
+
+#map #filter #Eachall
